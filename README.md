@@ -14,4 +14,10 @@ Contains digital version of Debosnys Cipher for digital analysis
 
 # TODO
 
-test receiving .tte and .
+ - test receiving .tte and .euf file and if import works correctly
+
+ - work programmatically with new font
+ 
+ - finish adding fonts
+ 
+ - make list of fonts done, with images, in readme
