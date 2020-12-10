@@ -24,4 +24,7 @@ Contains digital version of Debosnys Cipher for digital analysis
 
 # Library
 
+These are added in the order they appear in the poetry cipher.
+
+### Eye of mordor pyramid
 ![alt text](https://github.com/mdtrotter/DebosnysCipher/blob/main/Images/Debosny1.PNG?raw=true)
